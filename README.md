@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! Here you can find a collection of the personal a
 
 ## Featured Projects
 
-### 🔹 [AI-Based Eye Tracking PC Control]([https://github.com/](https://github.com/EpsilonAleph/AI-Assisted-Eye-Tracking-PC-Control))
+### 🔹 [AI-Based Eye Tracking PC Control](https://github.com/EpsilonAleph/AI-Assisted-Eye-Tracking-PC-Control)
 A computer control system for people with disabilities using AI-based eye tracking, blink detection for clicking, and a virtual keyboard for input.  
 **Tech Used:** Python, OpenCV, Dlib, PyAutoGUI, TTS
 
