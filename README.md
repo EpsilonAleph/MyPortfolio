@@ -12,7 +12,7 @@ A computer control system for people with disabilities using AI-based eye tracki
 
 ---
 
-### 🔹 [Iranian License Plate Recognition](https://github.com/)
+### 🔹 [Iranian License Plate Recognition App](https://github.com/)
 Real-time license plate detection using YOLOv8 and Persian OCR, built for use in mechanic shops.  
 **Tech Used:** YOLOv8, Hezar OCR, Python, Microsoft SQL Server
 
